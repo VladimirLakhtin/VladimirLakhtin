@@ -32,7 +32,7 @@ Faculty of Engineering and Economics of DonNTU (specialty **International Busine
     ML: Scikit-learn, XGBoost, Catboost, LightGBM, LAMA
     DL: PyTorch
     NLP: NLTK
-    Visualization: Mathplotlib, Seaborn
+    Visualization: Matplotlib, Seaborn
 ---
 ## **Contacts**
 
