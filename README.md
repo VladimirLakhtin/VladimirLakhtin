@@ -29,7 +29,7 @@ Faculty of Engineering and Economics of DonNTU (specialty **International Busine
 ***Python Libraries***:
     
     Base: Pandas, NumPy, SciPy, tqdm
-    ML: Skikit-learn, XGBoost, Catboost, LightGBM, LAMA
+    ML: Scikit-learn, XGBoost, Catboost, LightGBM, LAMA
     DL: PyTorch
     NLP: NLTK
     Visualization: Mathplotlib, Seaborn
