@@ -1,4 +1,4 @@
-# **Welcome, I'm Data Scientist** 👋
+# **Welcome, I'm Python Developer** 👋
 
 ## **About me**
 I am **Vladimir Lakhtin**, I am 20 years old. I live in **Krasnodar**.
