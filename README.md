@@ -26,12 +26,13 @@ Faculty of Engineering and Economics of DonNTU (specialty **International Busine
 ![Jupyter](https://img.shields.io/badge/Jupyter-090909?style=for-the-badge&logo=Jupyter&logoColor=FF4500)
 ![VsCode](https://img.shields.io/badge/VsCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=20B2AA)
 ![PyTorch](https://img.shields.io/badge/PyTorch-090909?style=for-the-badge&logo=PyTorch&logoColor=FF0000)
-![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mySQL&logoColor=00BFFF)
+![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=00BFFF)
 ![Heroku](https://img.shields.io/badge/Heroku-090909?style=for-the-badge&logo=Heroku&logoColor=FF00FF)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)
 ![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=Django)
 ![Flask](https://img.shields.io/badge/Flask-090909?style=for-the-badge&logo=Flask)
-![PowerBI](https://img.shields.io/badge/PowerBI-090909?style=for-the-badge&logo=PowerBI)     
+![PowerBI](https://img.shields.io/badge/PowerBI-090909?style=for-the-badge&logo=PowerBI)
+![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker)     
 
 
 
