@@ -25,6 +25,8 @@ Faculty of Engineering and Economics of DonNTU (specialty **International Busine
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mySQL&logoColor=00BFFF)
 ![Heroku](https://img.shields.io/badge/Heroku-090909?style=for-the-badge&logo=Heroku&logoColor=FF00FF)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)     
+![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=Django)     
+
 
 ***Python Libraries***:
     
