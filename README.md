@@ -1,7 +1,7 @@
 # **Welcome, I'm Python Developer** 👋
 
 ## **About me**
-I am **Vladimir Lakhtin**, I am 20 years old. I live in **Krasnodar**.
+I am **Vladimir Lakhtin**, I am 21 years old. I live in **Krasnodar**.
 
 Former **Project Manager**.
 
