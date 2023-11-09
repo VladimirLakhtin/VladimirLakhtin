@@ -3,17 +3,13 @@
 ## **About me**
 I am **Vladimir Lakhtin**, I am 21 years old. I live in **Krasnodar**.
 
-Former **Project Manager**.
-
 Current **Skillbox curator**
 
 Faculty of Engineering and Economics of DonNTU (specialty **International Business**)
 
 ---
 
-Я **Лахтин Владимир**, мне 20 лет. Живу в **Краснодаре**. 
-
-Бывший **Project Manager**.
+Я **Лахтин Владимир**, мне 21 год. Живу в **Краснодаре**. 
 
 Действующий **куратор Skillbox**
 
@@ -31,7 +27,7 @@ Faculty of Engineering and Economics of DonNTU (specialty **International Busine
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)
 ![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=Django)
 ![Flask](https://img.shields.io/badge/Flask-090909?style=for-the-badge&logo=Flask)
-![PowerBI](https://img.shields.io/badge/PowerBI-090909?style=for-the-badge&logo=PowerBI)
+![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=FastAPI)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker)     
 
 
