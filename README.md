@@ -23,8 +23,12 @@ Currently working at **Magnit IT Lab** and mentoring students as a **Skillbox Cu
 ### **Frameworks & Libraries**
 ![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=FastAPI)
 ![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=Django)
-![Celery](https://img.shields.io/badge/Celery-090909?style=for-the-badge&logo=Celery)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-090909?style=for-the-badge&logo=SQLAlchemy&logoColor=red)
 ![Strawberry GraphQL](https://img.shields.io/badge/Strawberry-090909?style=for-the-badge&logo=GraphQL&logoColor=FF69B4)
+
+### **Machine Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-090909?style=for-the-badge&logo=PyTorch&logoColor=FF0000)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-090909?style=for-the-badge&logo=Scikit-learn)
 
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
@@ -34,26 +38,15 @@ Currently working at **Magnit IT Lab** and mentoring students as a **Skillbox Cu
 ### **Infrastructure & Tools**
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker)
 ![GitLab](https://img.shields.io/badge/GitLab-090909?style=for-the-badge&logo=GitLab)
+![Celery](https://img.shields.io/badge/Celery-090909?style=for-the-badge&logo=Celery)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-090909?style=for-the-badge&logo=RabbitMQ)
 ![Kafka](https://img.shields.io/badge/Kafka-090909?style=for-the-badge&logo=ApacheKafka)
 ![Airflow](https://img.shields.io/badge/Airflow-090909?style=for-the-badge&logo=ApacheAirflow)
+![Dependency Injector](https://img.shields.io/badge/DependencyInjector-090909?style=for-the-badge&logo=python)
 
 ### **Development Tools**
 ![PyCharm](https://img.shields.io/badge/PyCharm-090909?style=for-the-badge&logo=PyCharm)
 ![VSCode](https://img.shields.io/badge/VSCode-090909?style=for-the-badge&logo=VisualStudio)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-090909?style=for-the-badge&logo=SQLAlchemy&logoColor=red)
-![Dependency Injector](https://img.shields.io/badge/DependencyInjector-090909?style=for-the-badge&logo=python)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=tokyonight" width="400"/>
-</p>
-
-<!-- Замените `your_github_username` на свой логин на GitHub -->
 
 ---
 
