@@ -1,41 +1,77 @@
-# **Welcome, I'm Python Developer** 👋
+# 👋 Welcome to My GitHub!
 
-## **About me**
-I am **Vladimir Lakhtin**, I am 21 years old. I live in **Krasnodar**.
+## 🧑‍💻 About Me
 
-Current **Skillbox curator**
+**Vladimir Lakhtin** | **Python Backend Developer** | **Magnit IT Lab**  
 
-Faculty of Engineering and Economics of DonNTU (specialty **International Business**)
+I design and develop scalable backend systems with a strong focus on performance, reliability, and clean architecture.  
+Currently working at **Magnit IT Lab** and mentoring students as a **Skillbox Curator**.
 
----
-
-Я **Лахтин Владимир**, мне 21 год. Живу в **Краснодаре**. 
-
-Действующий **куратор Skillbox**
-
-Инженерно-экономический факультет ДонНТУ (специальность **Международный бизнес**)
+- 🛠 Tech Enthusiast passionate about modern Python ecosystems and microservices  
+- 🚀 Experienced in high-load system optimization, asynchronous architecture, and data aggregation  
+- 👨‍🏫 Active mentor and code reviewer, helping juniors grow into confident developers  
+- 🎓 Degree: Faculty of Engineering and Economics, **Donetsk National Technical University** (International Business)
 
 ---
-## **Tools**
 
+## 🔥 Tech Stack
+
+### **Languages**
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=00BFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript)
 
-![Jupyter](https://img.shields.io/badge/Jupyter-090909?style=for-the-badge&logo=Jupyter&logoColor=FF4500)
-![VsCode](https://img.shields.io/badge/VsCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=20B2AA)
-![PyCharm](https://img.shields.io/badge/PyCharm-090909?style=for-the-badge&logo=PyCharm&logoColor=1DE81C)
-![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)
-
-![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=Django)
-![Flask](https://img.shields.io/badge/Flask-090909?style=for-the-badge&logo=Flask)
+### **Frameworks & Libraries**
 ![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=FastAPI)
-![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker)     
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=00BFFF)
-![NGINX](https://img.shields.io/badge/NGINX-090909?style=for-the-badge&logo=NGINX&logoColor=1DE81C)
-![Celery](https://img.shields.io/badge/Celery-090909?style=for-the-badge&logo=Celery&logoColor=00FF41)
+![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=Django)
+![Celery](https://img.shields.io/badge/Celery-090909?style=for-the-badge&logo=Celery)
+![Strawberry GraphQL](https://img.shields.io/badge/Strawberry-090909?style=for-the-badge&logo=GraphQL&logoColor=FF69B4)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-090909?style=for-the-badge&logo=PyTorch&logoColor=FF0000)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-090909?style=for-the-badge&logo=Scikit-learn)
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
+![Oracle](https://img.shields.io/badge/Oracle-090909?style=for-the-badge&logo=Oracle)
+![Firebird](https://img.shields.io/badge/Firebird-090909?style=for-the-badge&logo=Firebird)
 
-## **Contacts**
+### **Infrastructure & Tools**
+![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker)
+![GitLab](https://img.shields.io/badge/GitLab-090909?style=for-the-badge&logo=GitLab)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-090909?style=for-the-badge&logo=RabbitMQ)
+![Kafka](https://img.shields.io/badge/Kafka-090909?style=for-the-badge&logo=ApacheKafka)
+![Airflow](https://img.shields.io/badge/Airflow-090909?style=for-the-badge&logo=ApacheAirflow)
+
+### **Development Tools**
+![PyCharm](https://img.shields.io/badge/PyCharm-090909?style=for-the-badge&logo=PyCharm)
+![VSCode](https://img.shields.io/badge/VSCode-090909?style=for-the-badge&logo=VisualStudio)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-090909?style=for-the-badge&logo=SQLAlchemy&logoColor=red)
+![Dependency Injector](https://img.shields.io/badge/DependencyInjector-090909?style=for-the-badge&logo=python)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=tokyonight" width="400"/>
+</p>
+
+<!-- Замените `your_github_username` на свой логин на GitHub -->
+
+---
+
+## 📫 How to reach me
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/yummy_lvl)
+
+---
+
+# 🚀 Current Goals
+
+- Deepen expertise in high-load backend system design  
+- Contribute to open-source projects  
+- Continue mentoring and growing as a tech lead
+
+---
+
+# 🧩 Fun Facts
+
+- 🏂 Snowboarder and basketball lover  
+- 📚 Lifelong learner — always curious about new technologies
